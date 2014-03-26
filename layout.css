@@ -1,0 +1,16 @@
+ul {
+	list-style-type: none;
+}
+div#header img {
+	float: left;
+}
+div#header ul li {
+	font-size: 130%;
+	display: inline;
+}
+div#maincontent img {
+	display: table-cell;
+}
+div#maincontent img {
+	float: right;
+}
